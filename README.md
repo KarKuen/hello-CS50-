@@ -1,2 +1,4 @@
 # hello-CS50-
-Hello (name)
+
+CS50 Week 1 Problem Set
+* Hello (name)
